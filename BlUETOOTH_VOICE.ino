@@ -1,7 +1,4 @@
 
-//SL IDEAS
-//https://www.youtube.com/channel/UCsa_AZGAnWCcgYGkkGd_r4w/?sub_confirmation=1'
-
 #define relay1 13    //Connect relay1 to pin 13
 
 String voice;
